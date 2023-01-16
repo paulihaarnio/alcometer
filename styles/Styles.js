@@ -31,6 +31,6 @@ export default StyleSheet.create({
         fontSize: 40
     },
     button:{
-        borderRadius: 30
+        borderRadius: 100
     }
 });
